@@ -24,7 +24,7 @@ pip install -U git+https://github.com/rb1412bo/discord-py-components.git#egg=dis
 ---
 # Quickstart
 
-``py
+```py
 import discord
 from discord.ext import commands
 
@@ -47,4 +47,4 @@ async def demo(ctx):
 
 bot.run("YOUR_TOKEN")
 
-``
+```
