@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "discord-py-components"
+version = "0.1.0"
+description = "discord.py extension adding full Components V2 support"
+authors = [
+  { name="RB"}
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text="MIT" }
+dependencies = [
+  "discord.py>=2.0"
+]
+urls = { 
+  "Homepage" = "https://github.com/rb1412bo/discord-py-components"
+}
