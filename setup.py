@@ -3,10 +3,9 @@ from setuptools import setup, find_packages
 setup(
     name="discord-py-components",
     version="0.1.0",
-    author="Dein Name",
-    author_email="deine@email.de",
+    author="RB",
     description="discord.py extension adding full Components V2 support",
-    url="https://github.com/DEIN_USERNAME/discord-py-components",
+    url="https://github.com/rb1412bo/discord-py-components",
     classifiers=[
         "Programming Language :: Python :: 3.8",
         "Framework :: Discord :: discord.py",
