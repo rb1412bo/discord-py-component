@@ -50,7 +50,7 @@ bot.run("YOUR_TOKEN")
 ```
 ---
 
-Tests
+# Tests
 
 `bash
 pip install pytest
@@ -59,7 +59,7 @@ pytest
 
 ---
 
-Contributing
+# Contributing
 
 1. Fork the repo and clone your fork.  
 2. Create a feature branch:  
@@ -72,7 +72,7 @@ Contributing
 
 ---
 
-License
+# License
 
 This project is licensed under the MIT License.  
 See LICENSE for details.  
