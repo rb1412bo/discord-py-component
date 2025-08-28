@@ -15,6 +15,4 @@ license = { text="MIT" }
 dependencies = [
   "discord.py>=2.0"
 ]
-urls = { 
-  Homepage"  "https://github.com/rb1412bo/discord-py-components"
-}
+
