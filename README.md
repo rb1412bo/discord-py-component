@@ -3,8 +3,6 @@
 [![GitHub release](https://img.shields.io/github/v/release/rb1412bo/discord-py-components)](https://github.com/rb1412bo/discord-py-components/releases)  
 [![License: MIT](https://img.shields.io/github/license/rb1412bo/discord-py-components)](LICENSE)
 
-[![PyPI version](https://img.shields.io/pypi/v/discord-py-components.svg)](https://pypi.org/project/discord-py-components/)
-[![PyPI downloads](https://img.shields.io/pypi/dm/discord-py-components.svg)](https://pypi.org/project/discord-py-components/)
 
 A flexible `discord.py` extension that provides full support for all Discord Components V2 types:
 
