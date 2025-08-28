@@ -15,6 +15,7 @@ Each `.py` file is a minimal runnable script you can adapt to your bot.
 Run any example with:
 ```bash
 python examples/<filename>.py
+```
 
 ---
 
