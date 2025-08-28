@@ -52,27 +52,6 @@ async def demo(ctx):
 bot.run("YOUR_TOKEN")
 
 ```
----
-
-# Tests
-
-`bash
-pip install pytest
-pytest
-`
-
----
-
-# Contributing
-
-1. Fork the repo and clone your fork.  
-2. Create a feature branch:  
-   `bash
-   git checkout -b feature/my-new-feature
-   `  
-3. Write code and tests in the tests/ folder.  
-4. Format with Black (black .) and lint with flake8 (flake8).  
-5. Open a pull request against main.
 
 ---
 
