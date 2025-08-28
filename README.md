@@ -2,7 +2,8 @@
 
 ![Release](https://img.shields.io/github/v/release/rb1412bo/discord-py-component)
 [![License: MIT](https://img.shields.io/github/license/rb1412bo/discord-py-components)](LICENSE)
-![Status](https://img.shields.io/pypi/status/discord-py-components)
+![Status: Beta](https://img.shields.io/badge/status-beta-yellow)
+
 
 
 
