@@ -15,3 +15,23 @@ Each `.py` file is a minimal runnable script you can adapt to your bot.
 Run any example with:
 ```bash
 python examples/<filename>.py
+
+---
+
+### `examples/separator_demo.py`
+```python
+import discord
+from discord.ext import commands
+
+bot = commands.Bot(command_prefix="!")
+bot.load_extension("discord_components")
+
+@bot.command()
+async def sep(ctx):
+    btn1 = bot.ComponentsV2["Button"](style=1, label="Above")   # Primary button
+    sep = bot.ComponentsV2["Separator"](spacing=2)              # Adds vertical gap
+    btn2 = bot.ComponentsV2["Button"](style=4, label="Below")   # Danger button
+    await ctx.send("Buttons with separator:", components_v2=[btn1, sep, btn2])
+
+bot.run("YOUR_TOKEN")
+
