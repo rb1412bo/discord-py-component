@@ -1,6 +1,6 @@
 # discord-py-components
 
-[![GitHub release](https://img.shields.io/github/v/release/rb1412bo/discord-py-components)](https://github.com/rb1412bo/discord-py-components/releases)  
+[![GitHub release](https://img.shields.io/github/v/release/rb1412bo/discord-py-components)](https://github.com/rb1412bo/discord-py-component/releases/tag/v0.1.0)  
 [![License: MIT](https://img.shields.io/github/license/rb1412bo/discord-py-components)](LICENSE)
 
 
@@ -77,4 +77,3 @@ pytest
 
 This project is licensed under the MIT License.  
 See LICENSE for details.  
-`
