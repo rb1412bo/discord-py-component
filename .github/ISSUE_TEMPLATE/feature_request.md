@@ -1,20 +1,25 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: Feature Request
+about: Suggest a new feature or improvement
+title: "[Feature] "
+labels: enhancement
+---
+
+## What would you like to see?
+
+Describe the feature or improvement you’re requesting. What should it do?
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Why is it useful?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Explain why this feature would help. Who benefits from it?
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+---
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Example or mockup (optional)
+
+If you have a code snippet, screenshot, or idea of how it could look, share it here:
+
+```python
+# example code or usage
